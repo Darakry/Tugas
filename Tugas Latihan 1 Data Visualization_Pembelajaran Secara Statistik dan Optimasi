@@ -1,4 +1,4 @@
-10 Player terbanyak mencetak gol:
+1. 10 Player terbanyak mencetak gol:
    Unnamed: 0    id            player_name  games  time  goals         xG  \
 0           0   647             Harry Kane     35  3097     23  22.174859   
 1           1  1250          Mohamed Salah     37  3085     22  20.250847   
@@ -34,7 +34,7 @@
 7        Aston Villa   13  14.757840  22.014021   5.334991  
 8    Manchester City   12   8.044545  19.286812  10.148375  
 9            Arsenal   10   9.745403  14.361542   2.937941  
-10 Player dengan durasi bermain terlama:
+2. 10 Player dengan durasi bermain terlama:
                player_name  time
 110  Pierre-Emile Højbjerg  3420
 296            Hugo Lloris  3420
@@ -47,7 +47,7 @@
 55         Youri Tielemans  3359
 7            Ollie Watkins  3330
 
-10 player terbanyak assist:
+3. 10 player terbanyak assist:
         player_name  assists
 0        Harry Kane       14
 2   Bruno Fernandes       12
@@ -60,23 +60,23 @@
 41    Jack Harrison        8
 49      Timo Werner        8
 
-4 player pencetak gol terbanyak dari Manchester City:
+ 4. 4 player pencetak gol terbanyak dari Manchester City:
         player_name  goals
 8    Ilkay Gündogan     13
 22  Raheem Sterling     10
 28     Riyad Mahrez      9
 35    Gabriel Jesus      8
 
-Pencetak gol terbanyak berasal dari kesebelasan: Manchester City
+ 5. Pencetak gol terbanyak berasal dari kesebelasan: Manchester City
 
-Jumlah kartu kuning dan merah yang diterima oleh Harry Kane :
+ 6. Jumlah kartu kuning dan merah yang diterima oleh Harry Kane :
 yellow_cards    1
 red_cards       0
 dtype: int64
 
-Pemain dengan jumlah assist dan gol terbanyak: [['Harry Kane' 37 'Tottenham']]
+ 7. Pemain dengan jumlah assist dan gol terbanyak: [['Harry Kane' 37 'Tottenham']]
 
-5 kesebelasan yang menyumbangkan gol terbanyak:
+ 8. 5 kesebelasan yang menyumbangkan gol terbanyak:
 team_title
 Manchester City      77
 Manchester United    68
@@ -85,7 +85,7 @@ Leicester            64
 Liverpool            64
 Name: goals, dtype: int64
 
-Pemain dengan jumlah gol terbanyak tanpa mendapatkan kartu kuning atau merah:
+ 9. Pemain dengan jumlah gol terbanyak tanpa mendapatkan kartu kuning atau merah:
         player_name  goals
 1     Mohamed Salah     22
 3     Son Heung-Min     17
